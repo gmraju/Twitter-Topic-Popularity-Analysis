@@ -1,0 +1,1 @@
+These twitter API python scripts were obtained from: https://github.com/computermacgyver/twitter-python and were were only superficially changed to meet the needs of our project.
